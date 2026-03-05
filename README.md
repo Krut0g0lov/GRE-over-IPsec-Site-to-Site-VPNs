@@ -20,7 +20,7 @@ The topology simulates a real-world enterprise architecture with encrypted commu
 ## 🗺️ Topology
 
 ![Topology](./Topology.png)
-
+![Status](./Status.png)
 ---
 
 ## 🧱 Lab Components
